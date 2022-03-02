@@ -1,4 +1,12 @@
+<!DOCTYPE html>
 <html>
+<!--
+Name: Eric Burch
+Date: 3/1/2022
+Section: CSC4370
+Assignment: HW03
+Four PHP Functions
+-->
   <head>
     <style>
       table{

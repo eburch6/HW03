@@ -1,1 +1,3 @@
-https://codd.cs.gsu.edu/~eburch6/WP/HW/HW03/index.php
+https://github.com/eburch6/HW03
+
+HW03.txt has codd server link.
